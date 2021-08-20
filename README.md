@@ -3,10 +3,9 @@
 * Feature Selection is one of the core concepts in machine learning which hugely impacts the performance of your model.Feature Selection is the process where you automatically or manually select those features which contribute most to your prediction variable or output in which you are interested in.Having irrelevant features in your data can decrease the accuracy of the models and make your model learn based on irrelevant features.
 
 ### Benefits of performing feature selection before modeling your data :
-
 1. Reduces Overfitting: Less redundant data means less opportunity to make decisions based on noise.<br>
-2· Improves Accuracy: Less misleading data means modeling accuracy improves.<br>
-3· Reduces Training Time: fewer data points reduce algorithm complexity and algorithms train faster.<br>
+2. Improves Accuracy: Less misleading data means modeling accuracy improves.<br>
+3.  Reduces Training Time: fewer data points reduce algorithm complexity and algorithms train faster.<br>
 
 ### Feature Selection Methods :
 - Dropping Constant Features 
