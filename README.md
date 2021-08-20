@@ -14,4 +14,5 @@
 - Information gain-Mutual Information in Regression
 - Feature Importance
 - Univariate Selection
+- Chi-Square Selection
 
