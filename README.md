@@ -8,7 +8,7 @@
 · Reduces Training Time: fewer data points reduce algorithm complexity and algorithms train faster.
 
 ### Feature Selection Methods :
--Dropping Constant Features 
+- Dropping Constant Features 
 - Correlation With Heatmap
 - Information gain-Mutual Information in Classification
 - Information gain-Mutual Information in Regression
